@@ -2,7 +2,7 @@
 
 Summary: Exploring alternatives for content distribution on Spotify
 Time Frame: 2 weeks+
-Role: Lead Researcher, Lead Designer
+Role: Lead Researcher, Lead Designer 
 Tools: Notion, Figma, Figjam
 Method: Case Study, Desk Research, Explorative Design, Wireframing
 
